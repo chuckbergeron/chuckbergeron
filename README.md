@@ -6,6 +6,8 @@
 
 🌱 **3D**: I’m currently modeling a new kitchen in Blender for our house
 
+🌱 **PREVIOUS**: Most recently I co-founded the PoolTogether protocol, developing frontend UIs (react/svelte) and bots (typescript) to automate it
+
 ### Reach me at:
 
 - 📫 [chuck.bergeron@gmail.com](mailto:chuck.bergeron@gmail.com)
